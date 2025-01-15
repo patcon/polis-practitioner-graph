@@ -11,6 +11,7 @@ fully public.
 
 ## Roadmap
 - [x] MVP showing network of relationships and players.
+- [ ] Autogenerate from GitHub Action.
 - [ ] Add popup showing info on each entry (social media, linkedin, location, etc.)
 - [ ] Link to reference for each entry being in network.
 - [ ] Highlight people in "Polis Practitioner" list.
