@@ -17,6 +17,11 @@ fully public.
 - [ ] Highlight people in "Polis-curious" list.
 - [ ] Highlight people by location.
 - [ ] Highlight people in the Polis User Group discord ([discord invite][])
+- [ ] Add connections with strength based on social media interactions
+    - [ ] Twitter mentions
+    - [ ] Twitter follows
+    - [ ] Bluesky mentions
+    - [ ] Bluesky follows
 
    [discord invite]: https://discord.com/invite/wFWB8kzQpP
 
