@@ -13,8 +13,8 @@ const svg = d3.select("#graph")
 
 // Initialize the simulation
 const simulation = d3.forceSimulation()
-  .force("link", d3.forceLink().id(d => d.id).distance(100))
-  .force("charge", d3.forceManyBody().strength(-300))
+  .force("link", d3.forceLink().id(d => d.id).distance(50))
+  .force("charge", d3.forceManyBody().strength(-2))
   .force("center", d3.forceCenter(width / 2, height / 2));
 
 // Load the graph data
@@ -38,7 +38,7 @@ d3.json("graph_data.json").then(data => {
     .selectAll("circle")
     .data(data.nodes)
     .enter().append("circle")
-    .attr("r", 8)
+    .attr("r", 4)
     .attr("fill", d => color(d.type))
     .call(d3.drag()
       .on("start", dragStarted)
