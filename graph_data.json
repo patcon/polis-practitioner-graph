@@ -1,0 +1,2966 @@
+{
+  "nodes": [
+    {
+      "id": "Society Speaks",
+      "type": "project"
+    },
+    {
+      "id": "William Roberts",
+      "type": "person"
+    },
+    {
+      "id": "Universidad de la Rep\u00fablica",
+      "type": "group"
+    },
+    {
+      "id": "Participa",
+      "type": "group"
+    },
+    {
+      "id": "Ra\u00fal Speroni",
+      "type": "person"
+    },
+    {
+      "id": "Goodheart Labs",
+      "type": "group"
+    },
+    {
+      "id": "Viewpoints.xyz",
+      "type": "project"
+    },
+    {
+      "id": "Vitalik Buterin",
+      "type": "person"
+    },
+    {
+      "id": "Rob Gordon",
+      "type": "person"
+    },
+    {
+      "id": "Nathan Young",
+      "type": "person"
+    },
+    {
+      "id": "Edge City",
+      "type": "group"
+    },
+    {
+      "id": "Timour Kosters",
+      "type": "person"
+    },
+    {
+      "id": "Shu Yang Lin",
+      "type": "person"
+    },
+    {
+      "id": "New Democratic Party (NDP)",
+      "type": "group"
+    },
+    {
+      "id": "YourGreenbelt",
+      "type": "project"
+    },
+    {
+      "id": "Matthew Green",
+      "type": "person"
+    },
+    {
+      "id": "Joseph Gubbels",
+      "type": "person"
+    },
+    {
+      "id": "Boris Mann",
+      "type": "person"
+    },
+    {
+      "id": "Andy Paice",
+      "type": "person"
+    },
+    {
+      "id": "Twitter/X",
+      "type": "group"
+    },
+    {
+      "id": "Community Notes",
+      "type": "project"
+    },
+    {
+      "id": "Jay Baxter",
+      "type": "person"
+    },
+    {
+      "id": "Agora Citizens Network",
+      "type": "project"
+    },
+    {
+      "id": "Nicolas Gimenez",
+      "type": "person"
+    },
+    {
+      "id": "Yuting Jiang",
+      "type": "person"
+    },
+    {
+      "id": "George Charnley",
+      "type": "person"
+    },
+    {
+      "id": "Ted Suzman",
+      "type": "person"
+    },
+    {
+      "id": "Giorgos Georgiadis",
+      "type": "person"
+    },
+    {
+      "id": "DeepMind",
+      "type": "group"
+    },
+    {
+      "id": "Michiel Bakker",
+      "type": "person"
+    },
+    {
+      "id": "Martin Saveski",
+      "type": "person"
+    },
+    {
+      "id": "Soham De",
+      "type": "person"
+    },
+    {
+      "id": "Jean-Lou Fourquet",
+      "type": "person"
+    },
+    {
+      "id": "Filecoin Foundation",
+      "type": "group"
+    },
+    {
+      "id": "Canvas.xyz",
+      "type": "group"
+    },
+    {
+      "id": "Metropolis",
+      "type": "project"
+    },
+    {
+      "id": "Raymond Zhong",
+      "type": "person"
+    },
+    {
+      "id": "Bob Webb",
+      "type": "person"
+    },
+    {
+      "id": "Simone Maria Parazzoli",
+      "type": "person"
+    },
+    {
+      "id": "Plurality Institute",
+      "type": "group"
+    },
+    {
+      "id": "Lisa Schirch",
+      "type": "person"
+    },
+    {
+      "id": "Ethereum",
+      "type": "group"
+    },
+    {
+      "id": "Plural Research Experiment",
+      "type": "project"
+    },
+    {
+      "id": "Rich McDowell",
+      "type": "person"
+    },
+    {
+      "id": "Puja Ohlhaver",
+      "type": "person"
+    },
+    {
+      "id": "Luke Thorburn",
+      "type": "person"
+    },
+    {
+      "id": "Audrey Tang",
+      "type": "person"
+    },
+    {
+      "id": "RadicalxChange Foundation",
+      "type": "group"
+    },
+    {
+      "id": "RxC Voice",
+      "type": "project"
+    },
+    {
+      "id": "Glen Weyl",
+      "type": "person"
+    },
+    {
+      "id": "Alex Randaccio",
+      "type": "person"
+    },
+    {
+      "id": "Paula Berman",
+      "type": "person"
+    },
+    {
+      "id": "Charles Blass",
+      "type": "person"
+    },
+    {
+      "id": "Emilio Sempris",
+      "type": "person"
+    },
+    {
+      "id": "Bertelsmann Stiftung",
+      "type": "group"
+    },
+    {
+      "id": "Bertelsmann Foundation",
+      "type": "group"
+    },
+    {
+      "id": "Stefan Roch",
+      "type": "person"
+    },
+    {
+      "id": "Felix Sieker",
+      "type": "person"
+    },
+    {
+      "id": "Crowd Wisdom Project",
+      "type": "project"
+    },
+    {
+      "id": "Justice Annan",
+      "type": "person"
+    },
+    {
+      "id": "Suffrago",
+      "type": "project"
+    },
+    {
+      "id": "Andrew Gray",
+      "type": "person"
+    },
+    {
+      "id": "AI & Democracy Foundation",
+      "type": "group"
+    },
+    {
+      "id": "Bridging Systems",
+      "type": "project"
+    },
+    {
+      "id": "Aviv Ovadya",
+      "type": "person"
+    },
+    {
+      "id": "AstyLab",
+      "type": "group"
+    },
+    {
+      "id": "Adam Markakis",
+      "type": "person"
+    },
+    {
+      "id": "Nikos Fertakis",
+      "type": "person"
+    },
+    {
+      "id": "Katerina Katmada",
+      "type": "person"
+    },
+    {
+      "id": "AI Objective Institute",
+      "type": "group"
+    },
+    {
+      "id": "Talk to the City",
+      "type": "project"
+    },
+    {
+      "id": "Colleen Mackenzie",
+      "type": "person"
+    },
+    {
+      "id": "Open Future Foundation",
+      "type": "group"
+    },
+    {
+      "id": "Creative Commons Foundation",
+      "type": "group"
+    },
+    {
+      "id": "Shannon Hong",
+      "type": "person"
+    },
+    {
+      "id": "Alek Tarkowski",
+      "type": "person"
+    },
+    {
+      "id": "g0v",
+      "type": "group"
+    },
+    {
+      "id": "PDIS",
+      "type": "group"
+    },
+    {
+      "id": "Romulus Urakagi Tsai",
+      "type": "person"
+    },
+    {
+      "id": "Holopolis",
+      "type": "project"
+    },
+    {
+      "id": "MODA",
+      "type": "group"
+    },
+    {
+      "id": "Yen-Lin (mashbean) Huang",
+      "type": "person"
+    },
+    {
+      "id": "Bajour Basel",
+      "type": "group"
+    },
+    {
+      "id": "WePublish",
+      "type": "project"
+    },
+    {
+      "id": "Policy Lab UK",
+      "type": "group"
+    },
+    {
+      "id": "Edward Foale",
+      "type": "person"
+    },
+    {
+      "id": "Letitia Holden",
+      "type": "person"
+    },
+    {
+      "id": "Brendan Arnold",
+      "type": "person"
+    },
+    {
+      "id": "Prateek Buch",
+      "type": "person"
+    },
+    {
+      "id": "Celyn Bricker",
+      "type": "person"
+    },
+    {
+      "id": "SITRA",
+      "type": "group"
+    },
+    {
+      "id": "DigiFinland",
+      "type": "project"
+    },
+    {
+      "id": "Oma H\u00e4me",
+      "type": "group"
+    },
+    {
+      "id": "Eetu Lepp\u00e4nen",
+      "type": "person"
+    },
+    {
+      "id": "Janne Leinonen",
+      "type": "person"
+    },
+    {
+      "id": "Sanna-Kaisa Saloranta",
+      "type": "person"
+    },
+    {
+      "id": "Joonas Lepp\u00e4nen",
+      "type": "person"
+    },
+    {
+      "id": "Elina Eerola",
+      "type": "person"
+    },
+    {
+      "id": "Veera Heinonen",
+      "type": "person"
+    },
+    {
+      "id": "Hannu-Pekka Ik\u00e4heimo",
+      "type": "person"
+    },
+    {
+      "id": "Ilari Lovio",
+      "type": "person"
+    },
+    {
+      "id": "Calle Laakkonen",
+      "type": "person"
+    },
+    {
+      "id": "Tomi Niemi",
+      "type": "person"
+    },
+    {
+      "id": "Toni Laitamo",
+      "type": "person"
+    },
+    {
+      "id": "Metagov",
+      "type": "group"
+    },
+    {
+      "id": "Computational Democracy Project",
+      "type": "group"
+    },
+    {
+      "id": "Polis",
+      "type": "project"
+    },
+    {
+      "id": "Liz Barry",
+      "type": "person"
+    },
+    {
+      "id": "Shirui \"Oli\" Zhou",
+      "type": "person"
+    },
+    {
+      "id": "Hadgar Homaei",
+      "type": "person"
+    },
+    {
+      "id": "Colin Megill",
+      "type": "person"
+    },
+    {
+      "id": "Christopher Small",
+      "type": "person"
+    },
+    {
+      "id": "Darshana Narayanan",
+      "type": "person"
+    },
+    {
+      "id": "Bennie Rosas",
+      "type": "person"
+    },
+    {
+      "id": "Timo Erkkil\u00e4",
+      "type": "person"
+    },
+    {
+      "id": "Julien Cornebise",
+      "type": "person"
+    },
+    {
+      "id": "Tim Evko",
+      "type": "person"
+    },
+    {
+      "id": "Michael Bayne",
+      "type": "person"
+    },
+    {
+      "id": "Bianca Wylie",
+      "type": "person"
+    },
+    {
+      "id": "Mike Bjorkegren",
+      "type": "person"
+    },
+    {
+      "id": "Micah Stubbs",
+      "type": "person"
+    },
+    {
+      "id": "Composites Collective",
+      "type": "group"
+    },
+    {
+      "id": "Talkto.NYC",
+      "type": "project"
+    },
+    {
+      "id": "Conversa.cc",
+      "type": "project"
+    },
+    {
+      "id": "Claudina \"CS\" Sarahe",
+      "type": "person"
+    },
+    {
+      "id": "Matthew Bergman",
+      "type": "person"
+    },
+    {
+      "id": "Code for NL",
+      "type": "group"
+    },
+    {
+      "id": "PolisPilot.nl",
+      "type": "project"
+    },
+    {
+      "id": "Partici.app",
+      "type": "project"
+    },
+    {
+      "id": "Eva van Sloten",
+      "type": "person"
+    },
+    {
+      "id": "Ivonne Jansen-Dings",
+      "type": "person"
+    },
+    {
+      "id": "BetaBreak",
+      "type": "group"
+    },
+    {
+      "id": "Raoul Kramer",
+      "type": "person"
+    },
+    {
+      "id": "MyDemocracy.ca",
+      "type": "project"
+    },
+    {
+      "id": "Civic Tech Toronto",
+      "type": "group"
+    },
+    {
+      "id": "Rachel Clement",
+      "type": "person"
+    },
+    {
+      "id": "Chao-Ling Chyou",
+      "type": "person"
+    },
+    {
+      "id": "Thomas \"Tom\" Kam",
+      "type": "person"
+    },
+    {
+      "id": "Sonal Ranjit",
+      "type": "person"
+    },
+    {
+      "id": "Patrick Connolly",
+      "type": "person"
+    },
+    {
+      "id": "Jamie Pantling",
+      "type": "person"
+    },
+    {
+      "id": "Thomas E Fleming",
+      "type": "person"
+    },
+    {
+      "id": "Sebastian Ruan",
+      "type": "person"
+    },
+    {
+      "id": "Maanas Arora",
+      "type": "person"
+    },
+    {
+      "id": "Kaung \"Zin\" Hein",
+      "type": "person"
+    },
+    {
+      "id": "Vinesh Prathap",
+      "type": "person"
+    },
+    {
+      "id": "David Heoi",
+      "type": "person"
+    },
+    {
+      "id": "Alex Jung",
+      "type": "person"
+    },
+    {
+      "id": "Erik Terpstra",
+      "type": "person"
+    },
+    {
+      "id": "g0v.it",
+      "type": "group"
+    },
+    {
+      "id": "Horizon Europe",
+      "type": "group"
+    },
+    {
+      "id": "Orbis Project",
+      "type": "project"
+    },
+    {
+      "id": "Copernicani",
+      "type": "group"
+    },
+    {
+      "id": "Novelcore",
+      "type": "group"
+    },
+    {
+      "id": "Ioannis Livieris",
+      "type": "person"
+    },
+    {
+      "id": "PolisOrbis",
+      "type": "project"
+    },
+    {
+      "id": "Enrico Fagnoni",
+      "type": "person"
+    },
+    {
+      "id": "Alessandro Bevilacqua",
+      "type": "person"
+    },
+    {
+      "id": "Miah Mohd Ehtesham",
+      "type": "person"
+    },
+    {
+      "id": "Riccardo Paleari",
+      "type": "person"
+    },
+    {
+      "id": "DemosUK",
+      "type": "group"
+    },
+    {
+      "id": "Sophia Knight",
+      "type": "person"
+    },
+    {
+      "id": "Ciaran Cummins",
+      "type": "person"
+    },
+    {
+      "id": "Josh Smith",
+      "type": "person"
+    },
+    {
+      "id": "Harry Carr",
+      "type": "person"
+    },
+    {
+      "id": "Newspeak House",
+      "type": "group"
+    },
+    {
+      "id": "Nesta",
+      "type": "group"
+    },
+    {
+      "id": "Centre for Collective Intelligence Design",
+      "type": "group"
+    },
+    {
+      "id": "Lewis Westbury",
+      "type": "person"
+    },
+    {
+      "id": "Theo Bass",
+      "type": "person"
+    },
+    {
+      "id": "Co-intelligence Institute",
+      "type": "group"
+    },
+    {
+      "id": "Tom Atlee",
+      "type": "person"
+    },
+    {
+      "id": "Center for Wise Democracy",
+      "type": "group"
+    },
+    {
+      "id": "UT Austin Human-AI Interaction Lab",
+      "type": "group"
+    },
+    {
+      "id": "Jake Medina",
+      "type": "person"
+    },
+    {
+      "id": "Jan Steinhauer",
+      "type": "person"
+    },
+    {
+      "id": "Jonathan Lynn",
+      "type": "person"
+    },
+    {
+      "id": "Institute for Experiential AI",
+      "type": "group"
+    },
+    {
+      "id": "Shiran Dudy",
+      "type": "person"
+    },
+    {
+      "id": "Anthropic",
+      "type": "group"
+    },
+    {
+      "id": "Liane Lovitt",
+      "type": "person"
+    },
+    {
+      "id": "Esin Durmus",
+      "type": "person"
+    },
+    {
+      "id": "Collective Intelligence Project",
+      "type": "group"
+    },
+    {
+      "id": "Divya Siddarth",
+      "type": "person"
+    },
+    {
+      "id": "Saffron Huang",
+      "type": "person"
+    },
+    {
+      "id": "Evan Hadfield",
+      "type": "person"
+    },
+    {
+      "id": "James Padolsey",
+      "type": "person"
+    },
+    {
+      "id": "NeurIPS",
+      "type": "group"
+    },
+    {
+      "id": "Pluralistic Alignment Workshop",
+      "type": "group"
+    },
+    {
+      "id": "Remesh",
+      "type": "group"
+    },
+    {
+      "id": "Andrew Konya",
+      "type": "person"
+    },
+    {
+      "id": "Stanford HAI",
+      "type": "group"
+    },
+    {
+      "id": "Alex \"Sandy\" Pentland",
+      "type": "person"
+    },
+    {
+      "id": "Guinness Chen",
+      "type": "person"
+    },
+    {
+      "id": "Suburb",
+      "type": "project"
+    },
+    {
+      "id": "Theodore Keloglou",
+      "type": "person"
+    },
+    {
+      "id": "zKE",
+      "type": "group"
+    },
+    {
+      "id": "Zeze Digital",
+      "type": "group"
+    },
+    {
+      "id": "Eric Latiff",
+      "type": "person"
+    },
+    {
+      "id": "The Big Talk",
+      "type": "project"
+    },
+    {
+      "id": "Shallet Kibet",
+      "type": "person"
+    },
+    {
+      "id": "Caleb Gichuhi",
+      "type": "person"
+    },
+    {
+      "id": "Build Up",
+      "type": "group"
+    },
+    {
+      "id": "Helena Puig Larrauri",
+      "type": "person"
+    },
+    {
+      "id": "Allan Cheboi",
+      "type": "person"
+    },
+    {
+      "id": "Siasa Place",
+      "type": "group"
+    },
+    {
+      "id": "vTaiwan",
+      "type": "project"
+    },
+    {
+      "id": "OpenSourcePolitics",
+      "type": "group"
+    },
+    {
+      "id": "Armand Fardeau",
+      "type": "person"
+    },
+    {
+      "id": "Decidim",
+      "type": "project"
+    },
+    {
+      "id": "Cidade Democr\u00e1tica",
+      "type": "group"
+    },
+    {
+      "id": "Ricardo Poppi",
+      "type": "person"
+    },
+    {
+      "id": "Henrique Parra Parra Filho",
+      "type": "person"
+    },
+    {
+      "id": "Ulf Treger",
+      "type": "person"
+    },
+    {
+      "id": "Marco Silva",
+      "type": "person"
+    },
+    {
+      "id": "Maurilio Atila",
+      "type": "person"
+    },
+    {
+      "id": "Vanessa Me Tonini",
+      "type": "person"
+    },
+    {
+      "id": "PencilLabs",
+      "type": "group"
+    },
+    {
+      "id": "EJ / Pushing Together",
+      "type": "project"
+    },
+    {
+      "id": "Tallys Martins",
+      "type": "person"
+    },
+    {
+      "id": "Emilie Morais",
+      "type": "person"
+    },
+    {
+      "id": "Italo Paiva",
+      "type": "person"
+    },
+    {
+      "id": "David Carlos",
+      "type": "person"
+    },
+    {
+      "id": "F\u00e1bio Mac\u00eado Mendes",
+      "type": "person"
+    },
+    {
+      "id": "Shayane Alc\u00e2ntara",
+      "type": "person"
+    },
+    {
+      "id": "Cristiane Naves Cardoso",
+      "type": "person"
+    },
+    {
+      "id": "Rodrigo Oliveira",
+      "type": "person"
+    },
+    {
+      "id": "Fab\u00edola Fleury",
+      "type": "person"
+    },
+    {
+      "id": "Pablo Diego Silva da Silva",
+      "type": "person"
+    },
+    {
+      "id": "Luan Guimar\u00e3es",
+      "type": "person"
+    },
+    {
+      "id": "Pollyanna Carvalho",
+      "type": "person"
+    },
+    {
+      "id": "Talk to Taiwan",
+      "type": "project"
+    },
+    {
+      "id": "Innopolis",
+      "type": "project"
+    },
+    {
+      "id": "Daniil Fronts",
+      "type": "person"
+    },
+    {
+      "id": "Alexey Posikera",
+      "type": "person"
+    },
+    {
+      "id": "\"boggda\"",
+      "type": "person"
+    },
+    {
+      "id": "\"Louie-ru\"",
+      "type": "person"
+    },
+    {
+      "id": "\"carmt\"",
+      "type": "person"
+    },
+    {
+      "id": "West Point Military Academy",
+      "type": "group"
+    },
+    {
+      "id": "Aaditya \"Sonny\" Bhatia",
+      "type": "person"
+    },
+    {
+      "id": "Intelligent Agents Lab",
+      "type": "group"
+    },
+    {
+      "id": "Gita Sukthankar",
+      "type": "person"
+    },
+    {
+      "id": "Walla Walla Basin Watershed Council",
+      "type": "group"
+    },
+    {
+      "id": "eDemocracy Governance Council",
+      "type": "group"
+    },
+    {
+      "id": "Sam Schikowitz",
+      "type": "person"
+    },
+    {
+      "id": "Jake Hirsch-Allen",
+      "type": "person"
+    },
+    {
+      "id": "Simone Maria Parazzoli",
+      "type": "person"
+    },
+    {
+      "id": "Sofokus",
+      "type": "group"
+    },
+    {
+      "id": "Tietoevry",
+      "type": "group"
+    },
+    {
+      "id": "Code with Aloha",
+      "type": "group"
+    },
+    {
+      "id": "HIERR",
+      "type": "project"
+    },
+    {
+      "id": "Michael Avendano",
+      "type": "person"
+    },
+    {
+      "id": "Tyler Chong",
+      "type": "person"
+    },
+    {
+      "id": "Taylor Raack",
+      "type": "person"
+    },
+    {
+      "id": "Francisco Cha",
+      "type": "person"
+    },
+    {
+      "id": "Kurt Malley",
+      "type": "person"
+    },
+    {
+      "id": "Utrecht University",
+      "type": "group"
+    },
+    {
+      "id": "Utrecht Time Machine",
+      "type": "project"
+    },
+    {
+      "id": "Tolerance Carousel / Virtual Agora",
+      "type": "project"
+    },
+    {
+      "id": "Toine Pieters",
+      "type": "person"
+    },
+    {
+      "id": "Shahin Nazar",
+      "type": "person"
+    },
+    {
+      "id": "NEMO Kennislink",
+      "type": "group"
+    },
+    {
+      "id": "Symbiose",
+      "type": "group"
+    },
+    {
+      "id": "Simon Dirks",
+      "type": "person"
+    },
+    {
+      "id": "Marianne Lamers",
+      "type": "person"
+    },
+    {
+      "id": "Eef Grob",
+      "type": "person"
+    },
+    {
+      "id": "Bertrand Burgers",
+      "type": "person"
+    },
+    {
+      "id": "Marcia van Woensel",
+      "type": "person"
+    },
+    {
+      "id": "Robert Visscher",
+      "type": "person"
+    },
+    {
+      "id": "Stichting Netwerk Democratie / NetDem",
+      "type": "group"
+    },
+    {
+      "id": "Democracy in Action",
+      "type": "group"
+    },
+    {
+      "id": "Pakhuis de Zwijger",
+      "type": "group"
+    },
+    {
+      "id": "Anne de Zeeuw",
+      "type": "person"
+    },
+    {
+      "id": "Jeroen Bruijns",
+      "type": "person"
+    },
+    {
+      "id": "Charley Fiedeldij Dop",
+      "type": "person"
+    },
+    {
+      "id": "May-Britt Jansen",
+      "type": "person"
+    },
+    {
+      "id": "Nephtis Brandsma",
+      "type": "person"
+    },
+    {
+      "id": "New Heroes",
+      "type": "group"
+    },
+    {
+      "id": "Lucas De Man",
+      "type": "person"
+    },
+    {
+      "id": "City of Groningen",
+      "type": "group"
+    },
+    {
+      "id": "City of Amsterdam",
+      "type": "group"
+    },
+    {
+      "id": "Consul",
+      "type": "project"
+    },
+    {
+      "id": "Devin [...]",
+      "type": "person"
+    },
+    {
+      "id": "Assoc of NL Municipalities (VNG)",
+      "type": "group"
+    },
+    {
+      "id": "Bureau Burgerberaad",
+      "type": "group"
+    },
+    {
+      "id": "Demdis",
+      "type": "group"
+    },
+    {
+      "id": "Michal Horsk\u00fd",
+      "type": "person"
+    },
+    {
+      "id": "Denis Capkovic",
+      "type": "person"
+    },
+    {
+      "id": "Dominik Vagala",
+      "type": "person"
+    },
+    {
+      "id": "Fundaci\u00f3n Tribu",
+      "type": "group"
+    },
+    {
+      "id": "LXS 400",
+      "type": "project"
+    },
+    {
+      "id": "Jeronimo Barrios",
+      "type": "person"
+    },
+    {
+      "id": "Peter [...]",
+      "type": "person"
+    },
+    {
+      "id": "Matt Prewitt",
+      "type": "person"
+    },
+    {
+      "id": "NewVote",
+      "type": "project"
+    },
+    {
+      "id": "Daniel Nuttal",
+      "type": "person"
+    },
+    {
+      "id": "Rohan Richards",
+      "type": "person"
+    },
+    {
+      "id": "Crownshy",
+      "type": "group"
+    },
+    {
+      "id": "Stuart Lynn",
+      "type": "person"
+    },
+    {
+      "id": "Lucas Palazzi",
+      "type": "person"
+    },
+    {
+      "id": "SocGeoStudio",
+      "type": "group"
+    },
+    {
+      "id": "vLebanon",
+      "type": "project"
+    },
+    {
+      "id": "Sari Louis",
+      "type": "person"
+    },
+    {
+      "id": "Patrick Abi Salloum",
+      "type": "person"
+    },
+    {
+      "id": "NDI",
+      "type": "group"
+    },
+    {
+      "id": "NDI Tech",
+      "type": "project"
+    },
+    {
+      "id": "Jesper Frant",
+      "type": "person"
+    },
+    {
+      "id": "Mazzeti Rania",
+      "type": "person"
+    },
+    {
+      "id": "Lawrence Livermore National Lab",
+      "type": "group"
+    },
+    {
+      "id": "democracyGPS",
+      "type": "project"
+    },
+    {
+      "id": "Chris Krenn",
+      "type": "person"
+    },
+    {
+      "id": "Tally",
+      "type": "group"
+    },
+    {
+      "id": "Adrian Tavares",
+      "type": "person"
+    },
+    {
+      "id": "Benjamin Melan\u00e7on",
+      "type": "person"
+    },
+    {
+      "id": "Will Cohen",
+      "type": "person"
+    },
+    {
+      "id": "Guido Berh\u00f6rster",
+      "type": "person"
+    },
+    {
+      "id": "Coeuraj",
+      "type": "group"
+    },
+    {
+      "id": "Angie Fleming",
+      "type": "person"
+    },
+    {
+      "id": "Midjourney",
+      "type": "group"
+    },
+    {
+      "id": "Harvard",
+      "type": "group"
+    },
+    {
+      "id": "Manuel W\u00fcthrich",
+      "type": "person"
+    },
+    {
+      "id": "Background App",
+      "type": "group"
+    },
+    {
+      "id": "Lawrence Fulton",
+      "type": "person"
+    },
+    {
+      "id": "Takahiro Anno 2024",
+      "type": "project"
+    },
+    {
+      "id": "Takahiro Anno",
+      "type": "person"
+    },
+    {
+      "id": "Shutaro Aoyama",
+      "type": "person"
+    },
+    {
+      "id": "Nishio Hirokazu",
+      "type": "person"
+    },
+    {
+      "id": "Mielka",
+      "type": "group"
+    },
+    {
+      "id": "JapanChoice.jp",
+      "type": "project"
+    },
+    {
+      "id": "OpenAI",
+      "type": "group"
+    },
+    {
+      "id": "Democratic Inputs to AI",
+      "type": "project"
+    },
+    {
+      "id": "Noel Bundick",
+      "type": "person"
+    },
+    {
+      "id": "Isaiah Kuhle",
+      "type": "person"
+    },
+    {
+      "id": "Tools for Humanity",
+      "type": "group"
+    },
+    {
+      "id": "Seva Zhidkov",
+      "type": "person"
+    },
+    {
+      "id": "Hsiang Chou",
+      "type": "person"
+    },
+    {
+      "id": "Alicia Bargar",
+      "type": "person"
+    },
+    {
+      "id": "Tuebocracy",
+      "type": "project"
+    },
+    {
+      "id": "Beat Hagenlocher",
+      "type": "person"
+    },
+    {
+      "id": "Democracy Chamber",
+      "type": "project"
+    },
+    {
+      "id": "Otso Weckstr\u00f6m",
+      "type": "person"
+    },
+    {
+      "id": "Matias Slotboom",
+      "type": "person"
+    },
+    {
+      "id": "Kasperi Blomberg",
+      "type": "person"
+    },
+    {
+      "id": "Aappo Alatalo",
+      "type": "person"
+    },
+    {
+      "id": "Jonni Tukkimies",
+      "type": "person"
+    },
+    {
+      "id": "Urbanmetry",
+      "type": "group"
+    },
+    {
+      "id": "Michael Khor",
+      "type": "person"
+    },
+    {
+      "id": "Junction 2024 hackathon",
+      "type": "project"
+    },
+    {
+      "id": "Ricardo Iv\u00e1n Vieitez Parra",
+      "type": "person"
+    },
+    {
+      "id": "Rameesha Akhter",
+      "type": "person"
+    },
+    {
+      "id": "Ronalds Sovas",
+      "type": "person"
+    },
+    {
+      "id": "Renat Kyryllov",
+      "type": "person"
+    },
+    {
+      "id": "EyeDentity",
+      "type": "project"
+    },
+    {
+      "id": "Ziqi Wang",
+      "type": "person"
+    },
+    {
+      "id": "Sihang Yu",
+      "type": "person"
+    },
+    {
+      "id": "Alimjan Ablimit",
+      "type": "person"
+    },
+    {
+      "id": "Kirsi Hantula",
+      "type": "person"
+    },
+    {
+      "id": "Saara Saarinen",
+      "type": "person"
+    },
+    {
+      "id": "ALR DMC",
+      "type": "project"
+    },
+    {
+      "id": "Claudio Lintunen",
+      "type": "person"
+    },
+    {
+      "id": "Sofia Vereshchagina",
+      "type": "person"
+    },
+    {
+      "id": "Pasquale Riello",
+      "type": "person"
+    },
+    {
+      "id": "Miika Piiparinen",
+      "type": "person"
+    },
+    {
+      "id": "Aldan Creo",
+      "type": "person"
+    },
+    {
+      "id": "Juho Yl\u00e4-Rotiala",
+      "type": "person"
+    },
+    {
+      "id": "Kenya Ni Mimi",
+      "type": "group"
+    },
+    {
+      "id": "Tatiana Gicheru",
+      "type": "person"
+    },
+    {
+      "id": "AI4Deliberation",
+      "type": "project"
+    },
+    {
+      "id": "Dembrane",
+      "type": "group"
+    },
+    {
+      "id": "Common Ground",
+      "type": "project"
+    },
+    {
+      "id": "Jorim Theuns",
+      "type": "person"
+    },
+    {
+      "id": "Evelien Nieuwenburg",
+      "type": "person"
+    },
+    {
+      "id": "Chatham House",
+      "type": "group"
+    },
+    {
+      "id": "Recursive Public",
+      "type": "project"
+    },
+    {
+      "id": "Alex Krasodomski-Jones",
+      "type": "person"
+    },
+    {
+      "id": "Carl Miller",
+      "type": "person"
+    },
+    {
+      "id": "Flynn Devine",
+      "type": "person"
+    },
+    {
+      "id": "Jia-Wei (Peter) Cui",
+      "type": "person"
+    },
+    {
+      "id": "Columbia University",
+      "type": "group"
+    },
+    {
+      "id": "The American Assembly",
+      "type": "group"
+    },
+    {
+      "id": "Joe Karaganis",
+      "type": "person"
+    },
+    {
+      "id": "Civic Assembly",
+      "type": "project"
+    },
+    {
+      "id": "Next Louisville Civic Assembly",
+      "type": "project"
+    },
+    {
+      "id": "Global Congress on IP & Public Interest",
+      "type": "project"
+    },
+    {
+      "id": "Bowling Green Civic Assembly",
+      "type": "project"
+    },
+    {
+      "id": "Sam Ford",
+      "type": "person"
+    },
+    {
+      "id": "Bowling Green Daily News",
+      "type": "group"
+    }
+  ],
+  "links": [
+    {
+      "source": "William Roberts",
+      "target": "Society Speaks"
+    },
+    {
+      "source": "Participa",
+      "target": "Universidad de la Rep\u00fablica"
+    },
+    {
+      "source": "Ra\u00fal Speroni",
+      "target": "Participa"
+    },
+    {
+      "source": "Viewpoints.xyz",
+      "target": "Goodheart Labs"
+    },
+    {
+      "source": "Vitalik Buterin",
+      "target": "Viewpoints.xyz"
+    },
+    {
+      "source": "Vitalik Buterin",
+      "target": "Plurality Institute"
+    },
+    {
+      "source": "Nathan Young",
+      "target": "Viewpoints.xyz"
+    },
+    {
+      "source": "Timour Kosters",
+      "target": "Edge City"
+    },
+    {
+      "source": "Shu Yang Lin",
+      "target": "g0v"
+    },
+    {
+      "source": "Shu Yang Lin",
+      "target": "PDIS"
+    },
+    {
+      "source": "Shu Yang Lin",
+      "target": "vTaiwan"
+    },
+    {
+      "source": "Shu Yang Lin",
+      "target": "Recursive Public"
+    },
+    {
+      "source": "New Democratic Party (NDP)",
+      "target": "YourGreenbelt"
+    },
+    {
+      "source": "YourGreenbelt",
+      "target": "New Democratic Party (NDP)"
+    },
+    {
+      "source": "Matthew Green",
+      "target": "New Democratic Party (NDP)"
+    },
+    {
+      "source": "Matthew Green",
+      "target": "YourGreenbelt"
+    },
+    {
+      "source": "Joseph Gubbels",
+      "target": "New Democratic Party (NDP)"
+    },
+    {
+      "source": "Joseph Gubbels",
+      "target": "YourGreenbelt"
+    },
+    {
+      "source": "Andy Paice",
+      "target": "Center for Wise Democracy"
+    },
+    {
+      "source": "Community Notes",
+      "target": "Twitter/X"
+    },
+    {
+      "source": "Jay Baxter",
+      "target": "Community Notes"
+    },
+    {
+      "source": "Agora Citizens Network",
+      "target": "Horizon Europe"
+    },
+    {
+      "source": "Nicolas Gimenez",
+      "target": "Agora Citizens Network"
+    },
+    {
+      "source": "Yuting Jiang",
+      "target": "Agora Citizens Network"
+    },
+    {
+      "source": "George Charnley",
+      "target": "Agora Citizens Network"
+    },
+    {
+      "source": "Michiel Bakker",
+      "target": "DeepMind"
+    },
+    {
+      "source": "Metropolis",
+      "target": "Canvas.xyz"
+    },
+    {
+      "source": "Raymond Zhong",
+      "target": "Canvas.xyz"
+    },
+    {
+      "source": "Raymond Zhong",
+      "target": "Filecoin Foundation"
+    },
+    {
+      "source": "Bob Webb",
+      "target": "Canvas.xyz"
+    },
+    {
+      "source": "Bob Webb",
+      "target": "Filecoin Foundation"
+    },
+    {
+      "source": "Lisa Schirch",
+      "target": "Plurality Institute"
+    },
+    {
+      "source": "Plural Research Experiment",
+      "target": "Ethereum"
+    },
+    {
+      "source": "Rich McDowell",
+      "target": "Plural Research Experiment"
+    },
+    {
+      "source": "Puja Ohlhaver",
+      "target": "Plurality Institute"
+    },
+    {
+      "source": "Puja Ohlhaver",
+      "target": "Plural Research Experiment"
+    },
+    {
+      "source": "Luke Thorburn",
+      "target": "Plurality Institute"
+    },
+    {
+      "source": "Audrey Tang",
+      "target": "g0v"
+    },
+    {
+      "source": "Audrey Tang",
+      "target": "PDIS"
+    },
+    {
+      "source": "Audrey Tang",
+      "target": "MODA"
+    },
+    {
+      "source": "Audrey Tang",
+      "target": "Plurality Institute"
+    },
+    {
+      "source": "Audrey Tang",
+      "target": "Collective Intelligence Project"
+    },
+    {
+      "source": "RxC Voice",
+      "target": "RadicalxChange Foundation"
+    },
+    {
+      "source": "Glen Weyl",
+      "target": "RadicalxChange Foundation"
+    },
+    {
+      "source": "Glen Weyl",
+      "target": "Plurality Institute"
+    },
+    {
+      "source": "Alex Randaccio",
+      "target": "RadicalxChange Foundation"
+    },
+    {
+      "source": "Alex Randaccio",
+      "target": "RxC Voice"
+    },
+    {
+      "source": "Paula Berman",
+      "target": "RadicalxChange Foundation"
+    },
+    {
+      "source": "Charles Blass",
+      "target": "RadicalxChange Foundation"
+    },
+    {
+      "source": "Emilio Sempris",
+      "target": "RadicalxChange Foundation"
+    },
+    {
+      "source": "Bertelsmann Foundation",
+      "target": "Bertelsmann Stiftung"
+    },
+    {
+      "source": "Stefan Roch",
+      "target": "Bertelsmann Stiftung"
+    },
+    {
+      "source": "Felix Sieker",
+      "target": "Bertelsmann Stiftung"
+    },
+    {
+      "source": "Justice Annan",
+      "target": "Crowd Wisdom Project"
+    },
+    {
+      "source": "Andrew Gray",
+      "target": "Crowd Wisdom Project"
+    },
+    {
+      "source": "Andrew Gray",
+      "target": "Suffrago"
+    },
+    {
+      "source": "Aviv Ovadya",
+      "target": "AI & Democracy Foundation"
+    },
+    {
+      "source": "Adam Markakis",
+      "target": "AstyLab"
+    },
+    {
+      "source": "Nikos Fertakis",
+      "target": "AstyLab"
+    },
+    {
+      "source": "Katerina Katmada",
+      "target": "AstyLab"
+    },
+    {
+      "source": "Talk to the City",
+      "target": "AI Objective Institute"
+    },
+    {
+      "source": "Colleen Mackenzie",
+      "target": "AI Objective Institute"
+    },
+    {
+      "source": "Shannon Hong",
+      "target": "Open Future Foundation"
+    },
+    {
+      "source": "Shannon Hong",
+      "target": "Creative Commons Foundation"
+    },
+    {
+      "source": "Alek Tarkowski",
+      "target": "Open Future Foundation"
+    },
+    {
+      "source": "Alek Tarkowski",
+      "target": "Creative Commons Foundation"
+    },
+    {
+      "source": "Romulus Urakagi Tsai",
+      "target": "PDIS"
+    },
+    {
+      "source": "Holopolis",
+      "target": "PDIS"
+    },
+    {
+      "source": "Yen-Lin (mashbean) Huang",
+      "target": "MODA"
+    },
+    {
+      "source": "Yen-Lin (mashbean) Huang",
+      "target": "g0v"
+    },
+    {
+      "source": "WePublish",
+      "target": "Bajour Basel"
+    },
+    {
+      "source": "Edward Foale",
+      "target": "Policy Lab UK"
+    },
+    {
+      "source": "Letitia Holden",
+      "target": "Policy Lab UK"
+    },
+    {
+      "source": "Brendan Arnold",
+      "target": "Policy Lab UK"
+    },
+    {
+      "source": "Prateek Buch",
+      "target": "Policy Lab UK"
+    },
+    {
+      "source": "Celyn Bricker",
+      "target": "Policy Lab UK"
+    },
+    {
+      "source": "DigiFinland",
+      "target": "SITRA"
+    },
+    {
+      "source": "Oma H\u00e4me",
+      "target": "DigiFinland"
+    },
+    {
+      "source": "Eetu Lepp\u00e4nen",
+      "target": "DigiFinland"
+    },
+    {
+      "source": "Janne Leinonen",
+      "target": "DigiFinland"
+    },
+    {
+      "source": "Sanna-Kaisa Saloranta",
+      "target": "SITRA"
+    },
+    {
+      "source": "Joonas Lepp\u00e4nen",
+      "target": "SITRA"
+    },
+    {
+      "source": "Elina Eerola",
+      "target": "SITRA"
+    },
+    {
+      "source": "Veera Heinonen",
+      "target": "SITRA"
+    },
+    {
+      "source": "Hannu-Pekka Ik\u00e4heimo",
+      "target": "SITRA"
+    },
+    {
+      "source": "Ilari Lovio",
+      "target": "SITRA"
+    },
+    {
+      "source": "Calle Laakkonen",
+      "target": "SITRA"
+    },
+    {
+      "source": "Calle Laakkonen",
+      "target": "Sofokus"
+    },
+    {
+      "source": "Tomi Niemi",
+      "target": "SITRA"
+    },
+    {
+      "source": "Tomi Niemi",
+      "target": "Sofokus"
+    },
+    {
+      "source": "Toni Laitamo",
+      "target": "SITRA"
+    },
+    {
+      "source": "Toni Laitamo",
+      "target": "Tietoevry"
+    },
+    {
+      "source": "Polis",
+      "target": "Computational Democracy Project"
+    },
+    {
+      "source": "Liz Barry",
+      "target": "Computational Democracy Project"
+    },
+    {
+      "source": "Liz Barry",
+      "target": "g0v"
+    },
+    {
+      "source": "Liz Barry",
+      "target": "Metagov"
+    },
+    {
+      "source": "Liz Barry",
+      "target": "Crownshy"
+    },
+    {
+      "source": "Shirui \"Oli\" Zhou",
+      "target": "Computational Democracy Project"
+    },
+    {
+      "source": "Hadgar Homaei",
+      "target": "Computational Democracy Project"
+    },
+    {
+      "source": "Colin Megill",
+      "target": "Computational Democracy Project"
+    },
+    {
+      "source": "Colin Megill",
+      "target": "Democratic Inputs to AI"
+    },
+    {
+      "source": "Christopher Small",
+      "target": "Computational Democracy Project"
+    },
+    {
+      "source": "Darshana Narayanan",
+      "target": "Computational Democracy Project"
+    },
+    {
+      "source": "Darshana Narayanan",
+      "target": "Composites Collective"
+    },
+    {
+      "source": "Darshana Narayanan",
+      "target": "Talkto.NYC"
+    },
+    {
+      "source": "Bennie Rosas",
+      "target": "Computational Democracy Project"
+    },
+    {
+      "source": "Timo Erkkil\u00e4",
+      "target": "Polis"
+    },
+    {
+      "source": "Julien Cornebise",
+      "target": "Computational Democracy Project"
+    },
+    {
+      "source": "Tim Evko",
+      "target": "Computational Democracy Project"
+    },
+    {
+      "source": "Michael Bayne",
+      "target": "Computational Democracy Project"
+    },
+    {
+      "source": "Bianca Wylie",
+      "target": "Computational Democracy Project"
+    },
+    {
+      "source": "Mike Bjorkegren",
+      "target": "Polis"
+    },
+    {
+      "source": "Micah Stubbs",
+      "target": "Polis"
+    },
+    {
+      "source": "Talkto.NYC",
+      "target": "Composites Collective"
+    },
+    {
+      "source": "Conversa.cc",
+      "target": "Composites Collective"
+    },
+    {
+      "source": "Claudina \"CS\" Sarahe",
+      "target": "Polis"
+    },
+    {
+      "source": "Claudina \"CS\" Sarahe",
+      "target": "g0v"
+    },
+    {
+      "source": "Claudina \"CS\" Sarahe",
+      "target": "Composites Collective"
+    },
+    {
+      "source": "Claudina \"CS\" Sarahe",
+      "target": "Talkto.NYC"
+    },
+    {
+      "source": "Claudina \"CS\" Sarahe",
+      "target": "Conversa.cc"
+    },
+    {
+      "source": "Matthew Bergman",
+      "target": "Conversa.cc"
+    },
+    {
+      "source": "PolisPilot.nl",
+      "target": "Code for NL"
+    },
+    {
+      "source": "Partici.app",
+      "target": "Code for NL"
+    },
+    {
+      "source": "Eva van Sloten",
+      "target": "Code for NL"
+    },
+    {
+      "source": "Ivonne Jansen-Dings",
+      "target": "Code for NL"
+    },
+    {
+      "source": "BetaBreak",
+      "target": "Code for NL"
+    },
+    {
+      "source": "Raoul Kramer",
+      "target": "Code for NL"
+    },
+    {
+      "source": "Raoul Kramer",
+      "target": "BetaBreak"
+    },
+    {
+      "source": "MyDemocracy.ca",
+      "target": "Civic Tech Toronto"
+    },
+    {
+      "source": "Rachel Clement",
+      "target": "Civic Tech Toronto"
+    },
+    {
+      "source": "Chao-Ling Chyou",
+      "target": "Civic Tech Toronto"
+    },
+    {
+      "source": "Chao-Ling Chyou",
+      "target": "g0v"
+    },
+    {
+      "source": "Thomas \"Tom\" Kam",
+      "target": "Civic Tech Toronto"
+    },
+    {
+      "source": "Sonal Ranjit",
+      "target": "Civic Tech Toronto"
+    },
+    {
+      "source": "Patrick Connolly",
+      "target": "Civic Tech Toronto"
+    },
+    {
+      "source": "Patrick Connolly",
+      "target": "g0v"
+    },
+    {
+      "source": "Patrick Connolly",
+      "target": "vTaiwan"
+    },
+    {
+      "source": "Jamie Pantling",
+      "target": "Civic Tech Toronto"
+    },
+    {
+      "source": "Thomas E Fleming",
+      "target": "Civic Tech Toronto"
+    },
+    {
+      "source": "Sebastian Ruan",
+      "target": "Civic Tech Toronto"
+    },
+    {
+      "source": "Maanas Arora",
+      "target": "Civic Tech Toronto"
+    },
+    {
+      "source": "Kaung \"Zin\" Hein",
+      "target": "Civic Tech Toronto"
+    },
+    {
+      "source": "Vinesh Prathap",
+      "target": "Civic Tech Toronto"
+    },
+    {
+      "source": "David Heoi",
+      "target": "Civic Tech Toronto"
+    },
+    {
+      "source": "Alex Jung",
+      "target": "Civic Tech Toronto"
+    },
+    {
+      "source": "g0v.it",
+      "target": "g0v"
+    },
+    {
+      "source": "Orbis Project",
+      "target": "Horizon Europe"
+    },
+    {
+      "source": "Copernicani",
+      "target": "g0v.it"
+    },
+    {
+      "source": "Copernicani",
+      "target": "Orbis Project"
+    },
+    {
+      "source": "Novelcore",
+      "target": "Orbis Project"
+    },
+    {
+      "source": "Ioannis Livieris",
+      "target": "Novelcore"
+    },
+    {
+      "source": "PolisOrbis",
+      "target": "Copernicani"
+    },
+    {
+      "source": "PolisOrbis",
+      "target": "Orbis Project"
+    },
+    {
+      "source": "Enrico Fagnoni",
+      "target": "Copernicani"
+    },
+    {
+      "source": "Enrico Fagnoni",
+      "target": "g0v.it"
+    },
+    {
+      "source": "Alessandro Bevilacqua",
+      "target": "Copernicani"
+    },
+    {
+      "source": "Miah Mohd Ehtesham",
+      "target": "Copernicani"
+    },
+    {
+      "source": "Riccardo Paleari",
+      "target": "Copernicani"
+    },
+    {
+      "source": "Sophia Knight",
+      "target": "DemosUK"
+    },
+    {
+      "source": "Ciaran Cummins",
+      "target": "DemosUK"
+    },
+    {
+      "source": "Josh Smith",
+      "target": "DemosUK"
+    },
+    {
+      "source": "Harry Carr",
+      "target": "DemosUK"
+    },
+    {
+      "source": "Centre for Collective Intelligence Design",
+      "target": "Nesta"
+    },
+    {
+      "source": "Lewis Westbury",
+      "target": "Centre for Collective Intelligence Design"
+    },
+    {
+      "source": "Theo Bass",
+      "target": "DemosUK"
+    },
+    {
+      "source": "Theo Bass",
+      "target": "Nesta"
+    },
+    {
+      "source": "Tom Atlee",
+      "target": "Co-intelligence Institute"
+    },
+    {
+      "source": "Jake Medina",
+      "target": "UT Austin Human-AI Interaction Lab"
+    },
+    {
+      "source": "Jan Steinhauer",
+      "target": "UT Austin Human-AI Interaction Lab"
+    },
+    {
+      "source": "Jonathan Lynn",
+      "target": "UT Austin Human-AI Interaction Lab"
+    },
+    {
+      "source": "Shiran Dudy",
+      "target": "Institute for Experiential AI"
+    },
+    {
+      "source": "Liane Lovitt",
+      "target": "Anthropic"
+    },
+    {
+      "source": "Esin Durmus",
+      "target": "Anthropic"
+    },
+    {
+      "source": "Divya Siddarth",
+      "target": "Collective Intelligence Project"
+    },
+    {
+      "source": "Divya Siddarth",
+      "target": "RadicalxChange Foundation"
+    },
+    {
+      "source": "Divya Siddarth",
+      "target": "Democratic Inputs to AI"
+    },
+    {
+      "source": "Saffron Huang",
+      "target": "Collective Intelligence Project"
+    },
+    {
+      "source": "Evan Hadfield",
+      "target": "Collective Intelligence Project"
+    },
+    {
+      "source": "James Padolsey",
+      "target": "Collective Intelligence Project"
+    },
+    {
+      "source": "Pluralistic Alignment Workshop",
+      "target": "NeurIPS"
+    },
+    {
+      "source": "Andrew Konya",
+      "target": "Remesh"
+    },
+    {
+      "source": "Andrew Konya",
+      "target": "Pluralistic Alignment Workshop"
+    },
+    {
+      "source": "Alex \"Sandy\" Pentland",
+      "target": "Stanford HAI"
+    },
+    {
+      "source": "Guinness Chen",
+      "target": "Stanford HAI"
+    },
+    {
+      "source": "Theodore Keloglou",
+      "target": "Suburb"
+    },
+    {
+      "source": "Eric Latiff",
+      "target": "zKE"
+    },
+    {
+      "source": "Eric Latiff",
+      "target": "Zeze Digital"
+    },
+    {
+      "source": "Shallet Kibet",
+      "target": "The Big Talk"
+    },
+    {
+      "source": "Shallet Kibet",
+      "target": "zKE"
+    },
+    {
+      "source": "Caleb Gichuhi",
+      "target": "zKE"
+    },
+    {
+      "source": "Helena Puig Larrauri",
+      "target": "Build Up"
+    },
+    {
+      "source": "Allan Cheboi",
+      "target": "Build Up"
+    },
+    {
+      "source": "Armand Fardeau",
+      "target": "OpenSourcePolitics"
+    },
+    {
+      "source": "Ricardo Poppi",
+      "target": "Cidade Democr\u00e1tica"
+    },
+    {
+      "source": "Ricardo Poppi",
+      "target": "EJ / Pushing Together"
+    },
+    {
+      "source": "Henrique Parra Parra Filho",
+      "target": "Cidade Democr\u00e1tica"
+    },
+    {
+      "source": "Ulf Treger",
+      "target": "Cidade Democr\u00e1tica"
+    },
+    {
+      "source": "Ulf Treger",
+      "target": "EJ / Pushing Together"
+    },
+    {
+      "source": "Marco Silva",
+      "target": "Cidade Democr\u00e1tica"
+    },
+    {
+      "source": "Marco Silva",
+      "target": "EJ / Pushing Together"
+    },
+    {
+      "source": "Maurilio Atila",
+      "target": "Cidade Democr\u00e1tica"
+    },
+    {
+      "source": "Maurilio Atila",
+      "target": "EJ / Pushing Together"
+    },
+    {
+      "source": "Vanessa Me Tonini",
+      "target": "Cidade Democr\u00e1tica"
+    },
+    {
+      "source": "Vanessa Me Tonini",
+      "target": "EJ / Pushing Together"
+    },
+    {
+      "source": "Tallys Martins",
+      "target": "EJ / Pushing Together"
+    },
+    {
+      "source": "Emilie Morais",
+      "target": "EJ / Pushing Together"
+    },
+    {
+      "source": "Italo Paiva",
+      "target": "EJ / Pushing Together"
+    },
+    {
+      "source": "David Carlos",
+      "target": "EJ / Pushing Together"
+    },
+    {
+      "source": "David Carlos",
+      "target": "PencilLabs"
+    },
+    {
+      "source": "F\u00e1bio Mac\u00eado Mendes",
+      "target": "EJ / Pushing Together"
+    },
+    {
+      "source": "Shayane Alc\u00e2ntara",
+      "target": "EJ / Pushing Together"
+    },
+    {
+      "source": "Shayane Alc\u00e2ntara",
+      "target": "PencilLabs"
+    },
+    {
+      "source": "Cristiane Naves Cardoso",
+      "target": "EJ / Pushing Together"
+    },
+    {
+      "source": "Rodrigo Oliveira",
+      "target": "EJ / Pushing Together"
+    },
+    {
+      "source": "Fab\u00edola Fleury",
+      "target": "EJ / Pushing Together"
+    },
+    {
+      "source": "Pablo Diego Silva da Silva",
+      "target": "EJ / Pushing Together"
+    },
+    {
+      "source": "Luan Guimar\u00e3es",
+      "target": "EJ / Pushing Together"
+    },
+    {
+      "source": "Pollyanna Carvalho",
+      "target": "EJ / Pushing Together"
+    },
+    {
+      "source": "Pollyanna Carvalho",
+      "target": "PencilLabs"
+    },
+    {
+      "source": "Daniil Fronts",
+      "target": "Innopolis"
+    },
+    {
+      "source": "Alexey Posikera",
+      "target": "Innopolis"
+    },
+    {
+      "source": "\"boggda\"",
+      "target": "Innopolis"
+    },
+    {
+      "source": "\"Louie-ru\"",
+      "target": "Innopolis"
+    },
+    {
+      "source": "\"carmt\"",
+      "target": "Innopolis"
+    },
+    {
+      "source": "Aaditya \"Sonny\" Bhatia",
+      "target": "West Point Military Academy"
+    },
+    {
+      "source": "Gita Sukthankar",
+      "target": "Intelligent Agents Lab"
+    },
+    {
+      "source": "Sam Schikowitz",
+      "target": "Metagov"
+    },
+    {
+      "source": "Sam Schikowitz",
+      "target": "Walla Walla Basin Watershed Council"
+    },
+    {
+      "source": "Sam Schikowitz",
+      "target": "eDemocracy Governance Council"
+    },
+    {
+      "source": "Jake Hirsch-Allen",
+      "target": "Metagov"
+    },
+    {
+      "source": "Simone Maria Parazzoli",
+      "target": "Metagov"
+    },
+    {
+      "source": "Sofokus",
+      "target": "SITRA"
+    },
+    {
+      "source": "Tietoevry",
+      "target": "SITRA"
+    },
+    {
+      "source": "HIERR",
+      "target": "Code with Aloha"
+    },
+    {
+      "source": "Michael Avendano",
+      "target": "HIERR"
+    },
+    {
+      "source": "Tyler Chong",
+      "target": "HIERR"
+    },
+    {
+      "source": "Taylor Raack",
+      "target": "HIERR"
+    },
+    {
+      "source": "Francisco Cha",
+      "target": "HIERR"
+    },
+    {
+      "source": "Kurt Malley",
+      "target": "HIERR"
+    },
+    {
+      "source": "Utrecht Time Machine",
+      "target": "Utrecht University"
+    },
+    {
+      "source": "Tolerance Carousel / Virtual Agora",
+      "target": "Utrecht Time Machine"
+    },
+    {
+      "source": "Toine Pieters",
+      "target": "Tolerance Carousel / Virtual Agora"
+    },
+    {
+      "source": "Toine Pieters",
+      "target": "Utrecht Time Machine"
+    },
+    {
+      "source": "Toine Pieters",
+      "target": "Utrecht University"
+    },
+    {
+      "source": "Shahin Nazar",
+      "target": "Tolerance Carousel / Virtual Agora"
+    },
+    {
+      "source": "Simon Dirks",
+      "target": "NEMO Kennislink"
+    },
+    {
+      "source": "Simon Dirks",
+      "target": "Tolerance Carousel / Virtual Agora"
+    },
+    {
+      "source": "Marianne Lamers",
+      "target": "NEMO Kennislink"
+    },
+    {
+      "source": "Eef Grob",
+      "target": "NEMO Kennislink"
+    },
+    {
+      "source": "Bertrand Burgers",
+      "target": "NEMO Kennislink"
+    },
+    {
+      "source": "Bertrand Burgers",
+      "target": "Symbiose"
+    },
+    {
+      "source": "Robert Visscher",
+      "target": "NEMO Kennislink"
+    },
+    {
+      "source": "Anne de Zeeuw",
+      "target": "Pakhuis de Zwijger"
+    },
+    {
+      "source": "Anne de Zeeuw",
+      "target": "Stichting Netwerk Democratie / NetDem"
+    },
+    {
+      "source": "Anne de Zeeuw",
+      "target": "Consul"
+    },
+    {
+      "source": "Jeroen Bruijns",
+      "target": "Pakhuis de Zwijger"
+    },
+    {
+      "source": "Jeroen Bruijns",
+      "target": "Democracy in Action"
+    },
+    {
+      "source": "Charley Fiedeldij Dop",
+      "target": "Pakhuis de Zwijger"
+    },
+    {
+      "source": "Charley Fiedeldij Dop",
+      "target": "Bureau Burgerberaad"
+    },
+    {
+      "source": "May-Britt Jansen",
+      "target": "Pakhuis de Zwijger"
+    },
+    {
+      "source": "May-Britt Jansen",
+      "target": "City of Amsterdam"
+    },
+    {
+      "source": "Nephtis Brandsma",
+      "target": "Pakhuis de Zwijger"
+    },
+    {
+      "source": "Nephtis Brandsma",
+      "target": "City of Groningen"
+    },
+    {
+      "source": "Lucas De Man",
+      "target": "New Heroes"
+    },
+    {
+      "source": "Devin [...]",
+      "target": "Consul"
+    },
+    {
+      "source": "Michal Horsk\u00fd",
+      "target": "Demdis"
+    },
+    {
+      "source": "Denis Capkovic",
+      "target": "Demdis"
+    },
+    {
+      "source": "Dominik Vagala",
+      "target": "Demdis"
+    },
+    {
+      "source": "LXS 400",
+      "target": "Fundaci\u00f3n Tribu"
+    },
+    {
+      "source": "Jeronimo Barrios",
+      "target": "LXS 400"
+    },
+    {
+      "source": "Peter [...]",
+      "target": "vTaiwan"
+    },
+    {
+      "source": "Peter [...]",
+      "target": "g0v"
+    },
+    {
+      "source": "Matt Prewitt",
+      "target": "RadicalxChange Foundation"
+    },
+    {
+      "source": "Daniel Nuttal",
+      "target": "NewVote"
+    },
+    {
+      "source": "Rohan Richards",
+      "target": "NewVote"
+    },
+    {
+      "source": "Stuart Lynn",
+      "target": "Crownshy"
+    },
+    {
+      "source": "Sari Louis",
+      "target": "vLebanon"
+    },
+    {
+      "source": "Patrick Abi Salloum",
+      "target": "vLebanon"
+    },
+    {
+      "source": "NDI Tech",
+      "target": "NDI"
+    },
+    {
+      "source": "Jesper Frant",
+      "target": "NDI Tech"
+    },
+    {
+      "source": "Mazzeti Rania",
+      "target": "NDI Tech"
+    },
+    {
+      "source": "Chris Krenn",
+      "target": "democracyGPS"
+    },
+    {
+      "source": "Chris Krenn",
+      "target": "Lawrence Livermore National Lab"
+    },
+    {
+      "source": "Adrian Tavares",
+      "target": "Tally"
+    },
+    {
+      "source": "Guido Berh\u00f6rster",
+      "target": "PolisPilot.nl"
+    },
+    {
+      "source": "Guido Berh\u00f6rster",
+      "target": "Code for NL"
+    },
+    {
+      "source": "Angie Fleming",
+      "target": "Coeuraj"
+    },
+    {
+      "source": "Manuel W\u00fcthrich",
+      "target": "Midjourney"
+    },
+    {
+      "source": "Manuel W\u00fcthrich",
+      "target": "Harvard"
+    },
+    {
+      "source": "Manuel W\u00fcthrich",
+      "target": "OpenAI"
+    },
+    {
+      "source": "Lawrence Fulton",
+      "target": "Background App"
+    },
+    {
+      "source": "Takahiro Anno",
+      "target": "Takahiro Anno 2024"
+    },
+    {
+      "source": "Shutaro Aoyama",
+      "target": "Takahiro Anno 2024"
+    },
+    {
+      "source": "Nishio Hirokazu",
+      "target": "Takahiro Anno 2024"
+    },
+    {
+      "source": "Nishio Hirokazu",
+      "target": "Mielka"
+    },
+    {
+      "source": "JapanChoice.jp",
+      "target": "Mielka"
+    },
+    {
+      "source": "Democratic Inputs to AI",
+      "target": "OpenAI"
+    },
+    {
+      "source": "Noel Bundick",
+      "target": "OpenAI"
+    },
+    {
+      "source": "Seva Zhidkov",
+      "target": "Tools for Humanity"
+    },
+    {
+      "source": "Hsiang Chou",
+      "target": "PDIS"
+    },
+    {
+      "source": "Hsiang Chou",
+      "target": "MODA"
+    },
+    {
+      "source": "Beat Hagenlocher",
+      "target": "Tuebocracy"
+    },
+    {
+      "source": "Democracy Chamber",
+      "target": "SITRA"
+    },
+    {
+      "source": "Otso Weckstr\u00f6m",
+      "target": "Democracy Chamber"
+    },
+    {
+      "source": "Matias Slotboom",
+      "target": "Democracy Chamber"
+    },
+    {
+      "source": "Kasperi Blomberg",
+      "target": "Democracy Chamber"
+    },
+    {
+      "source": "Aappo Alatalo",
+      "target": "Democracy Chamber"
+    },
+    {
+      "source": "Jonni Tukkimies",
+      "target": "Democracy Chamber"
+    },
+    {
+      "source": "Michael Khor",
+      "target": "Urbanmetry"
+    },
+    {
+      "source": "Ricardo Iv\u00e1n Vieitez Parra",
+      "target": "SITRA"
+    },
+    {
+      "source": "Rameesha Akhter",
+      "target": "SITRA"
+    },
+    {
+      "source": "Ronalds Sovas",
+      "target": "SITRA"
+    },
+    {
+      "source": "Renat Kyryllov",
+      "target": "SITRA"
+    },
+    {
+      "source": "EyeDentity",
+      "target": "SITRA"
+    },
+    {
+      "source": "EyeDentity",
+      "target": "Junction 2024 hackathon"
+    },
+    {
+      "source": "Ziqi Wang",
+      "target": "EyeDentity"
+    },
+    {
+      "source": "Sihang Yu",
+      "target": "EyeDentity"
+    },
+    {
+      "source": "Alimjan Ablimit",
+      "target": "EyeDentity"
+    },
+    {
+      "source": "Kirsi Hantula",
+      "target": "SITRA"
+    },
+    {
+      "source": "Saara Saarinen",
+      "target": "SITRA"
+    },
+    {
+      "source": "ALR DMC",
+      "target": "SITRA"
+    },
+    {
+      "source": "ALR DMC",
+      "target": "Junction 2024 hackathon"
+    },
+    {
+      "source": "Claudio Lintunen",
+      "target": "ALR DMC"
+    },
+    {
+      "source": "Sofia Vereshchagina",
+      "target": "ALR DMC"
+    },
+    {
+      "source": "Pasquale Riello",
+      "target": "ALR DMC"
+    },
+    {
+      "source": "Miika Piiparinen",
+      "target": "ALR DMC"
+    },
+    {
+      "source": "Aldan Creo",
+      "target": "ALR DMC"
+    },
+    {
+      "source": "Juho Yl\u00e4-Rotiala",
+      "target": "DigiFinland"
+    },
+    {
+      "source": "Dembrane",
+      "target": "AI4Deliberation"
+    },
+    {
+      "source": "Common Ground",
+      "target": "Dembrane"
+    },
+    {
+      "source": "Jorim Theuns",
+      "target": "Dembrane"
+    },
+    {
+      "source": "Jorim Theuns",
+      "target": "Common Ground"
+    },
+    {
+      "source": "Evelien Nieuwenburg",
+      "target": "Dembrane"
+    },
+    {
+      "source": "Evelien Nieuwenburg",
+      "target": "Common Ground"
+    },
+    {
+      "source": "Recursive Public",
+      "target": "vTaiwan"
+    },
+    {
+      "source": "Recursive Public",
+      "target": "Democratic Inputs to AI"
+    },
+    {
+      "source": "Recursive Public",
+      "target": "Chatham House"
+    },
+    {
+      "source": "Alex Krasodomski-Jones",
+      "target": "Recursive Public"
+    },
+    {
+      "source": "Carl Miller",
+      "target": "Recursive Public"
+    },
+    {
+      "source": "Carl Miller",
+      "target": "DemosUK"
+    },
+    {
+      "source": "Flynn Devine",
+      "target": "Recursive Public"
+    },
+    {
+      "source": "Jia-Wei (Peter) Cui",
+      "target": "Recursive Public"
+    },
+    {
+      "source": "Jia-Wei (Peter) Cui",
+      "target": "vTaiwan"
+    },
+    {
+      "source": "The American Assembly",
+      "target": "Columbia University"
+    },
+    {
+      "source": "Joe Karaganis",
+      "target": "The American Assembly"
+    },
+    {
+      "source": "Joe Karaganis",
+      "target": "Civic Assembly"
+    },
+    {
+      "source": "Civic Assembly",
+      "target": "The American Assembly"
+    },
+    {
+      "source": "Civic Assembly",
+      "target": "Computational Democracy Project"
+    },
+    {
+      "source": "Next Louisville Civic Assembly",
+      "target": "Civic Assembly"
+    },
+    {
+      "source": "Global Congress on IP & Public Interest",
+      "target": "Civic Assembly"
+    },
+    {
+      "source": "Bowling Green Civic Assembly",
+      "target": "Civic Assembly"
+    },
+    {
+      "source": "Sam Ford",
+      "target": "Bowling Green Civic Assembly"
+    },
+    {
+      "source": "Bowling Green Daily News",
+      "target": "Bowling Green Civic Assembly"
+    }
+  ]
+}
