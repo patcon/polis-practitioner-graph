@@ -73,8 +73,8 @@ d3.json("graph_data.json").then(data => {
       .attr("y2", d => d.target.y);
 
     node
-      .attr("cx", d => d.x)
-      .attr("cy", d => d.y);
+      .attr("cx", d => (d.x = Math.max(8, Math.min(width - 8, d.x))))
+      .attr("cy", d => (d.y = Math.max(8, Math.min(height - 8, d.y))));
 
     label
       .attr("x", d => d.x + 10)
