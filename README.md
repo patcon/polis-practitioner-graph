@@ -26,7 +26,8 @@ fully public.
 # 1. [Optional] Download CSV and rename to `polis-practitioners.csv`.
 # 2. [Optional] Generate `graph_data.json` from CSV.
 python generate_json.py
-# 3. Serve page locally.
+# 3. [Optional] Manually remove any JSON items with `NaN` values to avoid JS errors.
+# 4. Serve page locally.
 python -m http.server 9000
 ```
 
