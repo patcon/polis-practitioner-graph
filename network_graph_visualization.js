@@ -1,8 +1,8 @@
 // D3.js Network Graph Visualization
 
 // Set dimensions and margins for the SVG
-const width = 800;
-const height = 600;
+const width = window.innerWidth;
+const height = window.innerHeight;
 
 // Create the SVG container
 d3.select("#graph").html(""); // Clear any existing content
